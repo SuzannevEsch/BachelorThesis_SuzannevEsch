@@ -1,0 +1,18 @@
+** Physical soil properties to run WOFOST v7.1
+** This soil parameterset of Vredepeel was provided on request by Tamara ten Den and were adjusted in format to suit the CABOFileReader from PCSE
+** Profile identification
+**
+SOLNAM = 'Vredepeel'
+
+**Soil water retention
+SM0    =  0.45 !Soil porosity [cm3/cm3]     based on local pF curve
+SMFCF  =  0.24 !Soil moisture content at field capacity [cm3/cm3] based on local pF curve
+SMW    =  0.04 ! Soil moisture content at wilting point [cm3/cm3]  based on local pF curve 
+CRAIRC =  0.01 ! Critical soil air content for aeration [cm3/cm3]
+
+
+**Hydraulic conductivity
+K0     = 10.0  ! Hydraulic conductivity of saturated soil [cm day-1]
+KSUB   = 10.0  ! Maximum percolation rate subsoil [cm day-1]         
+SOPE   = 10.0  ! Maximum percolation rate root zone[cm day-1]       
+RDMSOL = 60.0  ! Maximum rootable depth of the soil [cm] 

@@ -1,0 +1,602 @@
+
+AgroManagement:
+
+- 2136-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2136-05-15
+        crop_start_type: sowing
+        crop_end_date: 2136-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2136-10-16: null
+
+- 2137-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2137-05-15
+        crop_start_type: sowing
+        crop_end_date: 2137-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2137-10-16: null
+
+- 2138-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2138-05-15
+        crop_start_type: sowing
+        crop_end_date: 2138-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2138-10-16: null
+
+- 2139-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2139-05-15
+        crop_start_type: sowing
+        crop_end_date: 2139-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2139-10-16: null
+
+- 2140-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2140-05-15
+        crop_start_type: sowing
+        crop_end_date: 2140-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2140-10-16: null
+
+- 2141-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2141-05-15
+        crop_start_type: sowing
+        crop_end_date: 2141-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2141-10-16: null
+
+- 2142-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2142-05-15
+        crop_start_type: sowing
+        crop_end_date: 2142-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2142-10-16: null
+
+- 2143-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2143-05-15
+        crop_start_type: sowing
+        crop_end_date: 2143-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2143-10-16: null
+
+- 2144-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2144-05-15
+        crop_start_type: sowing
+        crop_end_date: 2144-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2144-10-16: null
+
+- 2145-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2145-05-15
+        crop_start_type: sowing
+        crop_end_date: 2145-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2145-10-16: null
+
+- 2146-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2146-05-15
+        crop_start_type: sowing
+        crop_end_date: 2146-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2146-10-16: null
+
+- 2147-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2147-05-15
+        crop_start_type: sowing
+        crop_end_date: 2147-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2147-10-16: null
+
+- 2148-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2148-05-15
+        crop_start_type: sowing
+        crop_end_date: 2148-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2148-10-16: null
+
+- 2149-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2149-05-15
+        crop_start_type: sowing
+        crop_end_date: 2149-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2149-10-16: null
+
+- 2150-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2150-05-15
+        crop_start_type: sowing
+        crop_end_date: 2150-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2150-10-16: null
+
+- 2151-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2151-05-15
+        crop_start_type: sowing
+        crop_end_date: 2151-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2151-10-16: null
+
+- 2152-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2152-05-15
+        crop_start_type: sowing
+        crop_end_date: 2152-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2152-10-16: null
+
+- 2153-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2153-05-15
+        crop_start_type: sowing
+        crop_end_date: 2153-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2153-10-16: null
+
+- 2154-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2154-05-15
+        crop_start_type: sowing
+        crop_end_date: 2154-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2154-10-16: null
+
+- 2155-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2155-05-15
+        crop_start_type: sowing
+        crop_end_date: 2155-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2155-10-16: null
+
+- 2156-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2156-05-15
+        crop_start_type: sowing
+        crop_end_date: 2156-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2156-10-16: null
+
+- 2157-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2157-05-15
+        crop_start_type: sowing
+        crop_end_date: 2157-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2157-10-16: null
+
+- 2158-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2158-05-15
+        crop_start_type: sowing
+        crop_end_date: 2158-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2158-10-16: null
+
+- 2159-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2159-05-15
+        crop_start_type: sowing
+        crop_end_date: 2159-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2159-10-16: null
+
+- 2160-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2160-05-15
+        crop_start_type: sowing
+        crop_end_date: 2160-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2160-10-16: null
+
+- 2161-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2161-05-15
+        crop_start_type: sowing
+        crop_end_date: 2161-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2161-10-16: null
+
+- 2162-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2162-05-15
+        crop_start_type: sowing
+        crop_end_date: 2162-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2162-10-16: null
+
+- 2163-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2163-05-15
+        crop_start_type: sowing
+        crop_end_date: 2163-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2163-10-16: null
+
+- 2164-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2164-05-15
+        crop_start_type: sowing
+        crop_end_date: 2164-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2164-10-16: null
+
+- 2165-05-15:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2165-05-15
+        crop_start_type: sowing
+        crop_end_date: 2165-10-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: Soil moisture driven irrigation scheduling
+        comment: all irrigation amounts in cm of water
+        events_table:
+        - 0.17: {amount: 3, efficiency: 0.7}
+- 2165-10-16: null

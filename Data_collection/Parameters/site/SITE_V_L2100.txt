@@ -1,0 +1,11 @@
+**This site parameterset of Vredepeel was provided on request by Tamara ten Den and were adjusted in format to suit the CABOFileReader from PCSE
+
+* Site parameters
+
+SMLIM  = 0.45  	       !Limiting amount of volumetric moisture in upper soil layer [-], same value as SM0
+IFUNRN = 0.0 	       !Rain infiltration as function of storm size [0/1]
+SSMAX  = 0.0  	       !Maximum surface storage [cm]
+SSI    = 0.0           !Initial surface storage [cm]
+WAV    = 12.0          !Initial amount of soil water [cm]
+NOTINF = 0.0 	       !Not infiltrating fraction of rainfall [0..1]
+CO2 = 445.3

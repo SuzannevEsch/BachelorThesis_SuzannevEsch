@@ -1,0 +1,392 @@
+
+AgroManagement:
+
+- 2036-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2036-03-15
+        crop_start_type: sowing
+        crop_end_date: 2036-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2036-08-16: null
+
+- 2037-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2037-03-15
+        crop_start_type: sowing
+        crop_end_date: 2037-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2037-08-16: null
+
+- 2038-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2038-03-15
+        crop_start_type: sowing
+        crop_end_date: 2038-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2038-08-16: null
+
+- 2039-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2039-03-15
+        crop_start_type: sowing
+        crop_end_date: 2039-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2039-08-16: null
+
+- 2040-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2040-03-15
+        crop_start_type: sowing
+        crop_end_date: 2040-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2040-08-16: null
+
+- 2041-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2041-03-15
+        crop_start_type: sowing
+        crop_end_date: 2041-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2041-08-16: null
+
+- 2042-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2042-03-15
+        crop_start_type: sowing
+        crop_end_date: 2042-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2042-08-16: null
+
+- 2043-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2043-03-15
+        crop_start_type: sowing
+        crop_end_date: 2043-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2043-08-16: null
+
+- 2044-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2044-03-15
+        crop_start_type: sowing
+        crop_end_date: 2044-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2044-08-16: null
+
+- 2045-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2045-03-15
+        crop_start_type: sowing
+        crop_end_date: 2045-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2045-08-16: null
+
+- 2046-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2046-03-15
+        crop_start_type: sowing
+        crop_end_date: 2046-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2046-08-16: null
+
+- 2047-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2047-03-15
+        crop_start_type: sowing
+        crop_end_date: 2047-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2047-08-16: null
+
+- 2048-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2048-03-15
+        crop_start_type: sowing
+        crop_end_date: 2048-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2048-08-16: null
+
+- 2049-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2049-03-15
+        crop_start_type: sowing
+        crop_end_date: 2049-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2049-08-16: null
+
+- 2050-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2050-03-15
+        crop_start_type: sowing
+        crop_end_date: 2050-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2050-08-16: null
+
+- 2051-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2051-03-15
+        crop_start_type: sowing
+        crop_end_date: 2051-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2051-08-16: null
+
+- 2052-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2052-03-15
+        crop_start_type: sowing
+        crop_end_date: 2052-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2052-08-16: null
+
+- 2053-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2053-03-15
+        crop_start_type: sowing
+        crop_end_date: 2053-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2053-08-16: null
+
+- 2054-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2054-03-15
+        crop_start_type: sowing
+        crop_end_date: 2054-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2054-08-16: null
+
+- 2055-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2055-03-15
+        crop_start_type: sowing
+        crop_end_date: 2055-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2055-08-16: null
+
+- 2056-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2056-03-15
+        crop_start_type: sowing
+        crop_end_date: 2056-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2056-08-16: null
+
+- 2057-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2057-03-15
+        crop_start_type: sowing
+        crop_end_date: 2057-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2057-08-16: null
+
+- 2058-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2058-03-15
+        crop_start_type: sowing
+        crop_end_date: 2058-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2058-08-16: null
+
+- 2059-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2059-03-15
+        crop_start_type: sowing
+        crop_end_date: 2059-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2059-08-16: null
+
+- 2060-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2060-03-15
+        crop_start_type: sowing
+        crop_end_date: 2060-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2060-08-16: null
+
+- 2061-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2061-03-15
+        crop_start_type: sowing
+        crop_end_date: 2061-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2061-08-16: null
+
+- 2062-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2062-03-15
+        crop_start_type: sowing
+        crop_end_date: 2062-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2062-08-16: null
+
+- 2063-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2063-03-15
+        crop_start_type: sowing
+        crop_end_date: 2063-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2063-08-16: null
+
+- 2064-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2064-03-15
+        crop_start_type: sowing
+        crop_end_date: 2064-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2064-08-16: null
+
+- 2065-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: Fontane
+        crop_start_date: 2065-03-15
+        crop_start_type: sowing
+        crop_end_date: 2065-08-15
+        crop_end_type: harvest
+        max_duration: 155
+    TimedEvents: null
+    StateEvents: null
+- 2065-08-16: null
